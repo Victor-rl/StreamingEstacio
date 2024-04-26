@@ -1,5 +1,3 @@
-# Trabalho de Desenvolvimento Web
-
 # Comandos do Git
 # git pull - Faz o download de todas as alterações no github (caso tenha)
 # git status - Verifica se há alguma alteração na branch pra ser adicionada
@@ -14,4 +12,4 @@
 # git checkout (nome da branch) - Troca de uma branch para outra
 # git merge {nome da branch} - Mescla duas branchs (A que vc está, com a que está entre chaves)
 
-# git clone {URL} - Clonar um repositorio inteiro (a porra toda mesmo) do github
+# git clone {URL} - Clonar um repositorio inteiro do github
