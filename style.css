@@ -146,21 +146,23 @@
 .div_videos iframe{
     background-color: black;
     border: none;
-    padding: 0px 5px 5px 5px;
+    padding: 0px 10px 0px 10px;
 }
 
 .div_videos a{
     background-color: black;
     border: none;
-    width: 330px;
+    width: 370px;
     height: 20px;
     text-align: center;
+    font-size: 20px;
+    text-decoration: none;
 }
 
 .div_videos p{
     background-color: black;
     border: none;
-    width: 330px;
+    width: 370px;
     height: 30px;
     text-align: center;
     font-size: 20px;
